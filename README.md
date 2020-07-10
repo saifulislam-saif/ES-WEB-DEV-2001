@@ -302,12 +302,16 @@
 
 # ==== Class 30 ====
 
+    Web Application Development Step by Step
+
     ❖ Image/File upload using Laravel File Storage
     ❖ Understanding symbolic link
 
 
 
 # ==== Class 31 ====
+
+    Web Application Development Step by Step
 
     ❖ Planning of web application
     ❖ Development work on basic functionalities
@@ -317,6 +321,8 @@
 
 # ==== Class 32 ====
 
+    Web Application Development Step by Step
+
     ❖ Use of dataTables
     ❖ Applying on Request Class
     ❖ Working on Request class
@@ -324,6 +330,8 @@
 
 
 # ==== Class 33 ====
+
+    Web Application Development Step by Step
 
     ❖ One to One Relation
     ❖ One to many relation
@@ -334,12 +342,16 @@
 
 # ==== Class 34 ====
 
+    Web Application Development Step by Step
+
     ❖ Use of Package
     ❖ Multi Language
 
 
 
 # ==== Class 35 ====
+
+    Web Application Development Step by Step
 
     ❖ Laravel Socialite
 
@@ -415,7 +427,6 @@
     ❖ File Re-Submission System.
     ❖ Payment System.
     ❖ Account Security.
-
 
     Class Assignment: Review Market Place and Requirement
 
