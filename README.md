@@ -96,172 +96,268 @@
 
 
 
-# ==== Class 07 ====
+# ==== Class 09 ====
 
+     Super Global Variable
+     PHP Form Submission:
+    •  Form Handling
+    •  Form Validation (filter, preg_match)
 
 
 
-# ==== Class 07 ====
+# ==== Class 10 ====
 
+    Form Handling Problem Solving Class
+    (2 Hours Lab Class)
 
 
 
-# ==== Class 07 ====
+# ==== Class 11 ====
 
+     PHP Date & Time
+     File Include/Require in PHP.
+     File Create in PHP
+     File Read in PHP
+     die function
+     try catch exception
 
 
 
-# ==== Class 07 ====
+# ==== Class 12 ====
 
+     What is SQL?
+     How to Create Database in MySQL?
+     How to Connect Database in Web Application?
+     What is Database Table?
+     How to Create Table?
+     How to Create Table Field?
+     What is Primary Key?
+     Why We Use Primary Key?
+     What is Foreign Key?
+     Why We Use Foreign Key? 
 
 
 
-# ==== Class 07 ====
+# ==== Class 13 ====
 
+     Introduction to CRUD in PHP
+     Introduction to MySQL and MySQLi
+     Working with System Registration (Sign Up) Form
+     Data Passing Using GET/POST Method.
 
 
 
-# ==== Class 07 ====
+# ==== Class 14 ====
 
+     How to Read/View all Data from Database?
+     How to View Single Data from Database?
+     How to Update Data in Database?
+     How to Delete Data from Database?
 
 
 
-# ==== Class 07 ====
+# ==== Class 15 ====
 
+     Working with System Login (Sign In) Form
+     What is Session?
+     Why We Use PHP Session?
+     How to Use PHP Session?
+     Enabling logout in System.
 
 
 
-# ==== Class 07 ====
+# ==== Class 16 ====
 
+    Dynamic Website Development Step by Step
+    (Admin Dashboard Integration)
 
 
 
-# ==== Class 07 ====
+# ==== Class 17 ====
 
+    Dynamic Website Development Step by Step
+    (Frontend Backend Integration)
 
 
 
-# ==== Class 07 ====
+# ==== Class 18 ====
 
+    Dynamic Website Development Step by Step
+    Project: Dynamic Website Development in PHP and MySQL. 
 
 
 
-# ==== Class 07 ====
+# ==== Class 19 ====
 
+     What is Object Oriented Programming (OOP)?
+     Basic Concept of PHP OOP.
+     What is  Magic Method?
+     Basic Concept-
+    •  Class
+    •  Methods
+    •  Objects
+    •  Constructors
+    •  Destructors
 
 
 
-# ==== Class 07 ====
+# ==== Class 20 ====
 
+     OOP Access Modifier -
+    •  Public
+    •  Private
+    •  Protected
+     What is Method Overloading and Overriding?
+     Object  Oriented Feature-
+    •  Inheritance
+    •  Abstraction
+    •  Polymorphism
+    •  Encapsulation
 
 
 
-# ==== Class 07 ====
+# ==== Class 21 ====
 
+    ❖ Basic Concept of Application/Software
+    ❖ Different types of Applications.
+    ❖ What is Web App?
+    ❖ What is a Framework?
+    ❖ Introduction to Laravel	
+    ❖ Why Laravel for web app development?
 
 
 
-# ==== Class 07 ====
+# ==== Class 22 ====
 
 
 
 
-# ==== Class 07 ====
+# ==== Class 23 ====
 
 
 
 
-# ==== Class 07 ====
+# ==== Class 24 ====
 
 
 
 
-# ==== Class 07 ====
+# ==== Class 25 ====
 
 
 
 
-# ==== Class 07 ====
+# ==== Class 26 ====
 
 
 
 
-# ==== Class 07 ====
+# ==== Class 27 ====
 
 
 
 
-# ==== Class 07 ====
+# ==== Class 28 ====
 
 
 
 
-# ==== Class 07 ====
+# ==== Class 29 ====
 
 
 
 
-# ==== Class 07 ====
+# ==== Class 30 ====
 
 
 
 
-# ==== Class 07 ====
+# ==== Class 31 ====
 
 
 
 
-# ==== Class 07 ====
+# ==== Class 32 ====
 
 
 
 
-# ==== Class 07 ====
+# ==== Class 33 ====
 
 
 
 
-# ==== Class 07 ====
+# ==== Class 34 ====
 
 
 
 
-# ==== Class 07 ====
+# ==== Class 35 ====
 
 
 
 
-# ==== Class 07 ====
+# ==== Class 36 ====
 
 
 
 
-# ==== Class 07 ====
+# ==== Class 37 ====
 
 
 
 
-# ==== Class 07 ====
+# ==== Class 38 ====
 
 
 
 
-# ==== Class 07 ====
+# ==== Class 39 ====
 
 
 
 
-# ==== Class 07 ====
+# ==== Class 40 ====
 
 
 
 
-# ==== Class 07 ====
+# ==== Class 41 ====
 
 
 
 
-# ==== Class 07 ====
+# ==== Class 42 ====
+
+
+
+
+# ==== Class 43 ====
+
+
+
+
+# ==== Class 44 ====
+
+
+
+
+# ==== Class 45 ====
+
+
+
+
+# ==== Class 46 ====
+
+
+
+
+# ==== Class 47 ====
+
+
+
+
+# ==== Class 48 ====
 
 
 
