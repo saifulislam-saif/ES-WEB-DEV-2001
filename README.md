@@ -224,141 +224,238 @@
     ❖ What is a Framework?
     ❖ Introduction to Laravel	
     ❖ Why Laravel for web app development?
+    ❖ What is MVC Architecture?
+    ❖ Local Development Environment and Software Installation.
 
 
 
 # ==== Class 22 ====
 
+    ❖ What is CLI (Command-line Interface)?
+    ❖ Basic CLI commands
+    ❖ What is Composer?
+    ❖ Laravel installation using Composer
+    ❖ Folder structure
+    ❖ .env file
+    ❖ composer.json file
+    ❖ Beautiful Artisan commands
+    ❖ Running the first Laravel project using Artisan command
+    ❖ Understanding MVC Architecture in Laravel
+    ❖ What is Route?
+    ❖ Creating our first route
 
 
 
 # ==== Class 23 ====
 
+    ❖ Creating Views
+    ❖ Blade Templating
+    ❖ Extending Blade
+    ❖ What is Controller?
+    ❖ How to create a Controller?
+    ❖ Passing Data To Views
 
 
 
 # ==== Class 24 ====
 
+    ❖ Making form at Laravel
+    ❖ Sending form data to a Controller
+    ❖ Doing logical and mathematical operation using form data
+    ❖ Connecting MySQL database to Laravel
 
 
 
 # ==== Class 25 ====
 
+    ❖ Understanding the Model
+    ❖ Using Migration to create table
+    ❖ Working with Model and Migration
+    ❖ Inserting record into database using Eloquent Model
 
 
 
 # ==== Class 26 ====
 
+    ❖ Read record from database (single/multiple)
+    ❖ Update record from database
 
 
 
 # ==== Class 27 ====
 
+    ❖ Delete record from database
+    ❖ Using Laravel Basic Authentication
+    ❖ What is Middleware? 
 
 
 
 # ==== Class 28 ====
 
-
+    Web Application Development Step by Step
 
 
 # ==== Class 29 ====
 
-
+    Web Application Development Step by Step
 
 
 # ==== Class 30 ====
 
+    ❖ Image/File upload using Laravel File Storage
+    ❖ Understanding symbolic link
 
 
 
 # ==== Class 31 ====
 
+    ❖ Planning of web application
+    ❖ Development work on basic functionalities
+    ❖ Use of Resource Controller
 
 
 
 # ==== Class 32 ====
 
+    ❖ Use of dataTables
+    ❖ Applying on Request Class
+    ❖ Working on Request class
 
 
 
 # ==== Class 33 ====
 
+    ❖ One to One Relation
+    ❖ One to many relation
+    ❖ Eager Loading	
+    ❖ Integrating custom dashboard with default design 
 
 
 
 # ==== Class 34 ====
 
+    ❖ Use of Package
+    ❖ Multi Language
 
 
 
 # ==== Class 35 ====
 
+    ❖ Laravel Socialite
 
 
 
 # ==== Class 36 ====
 
+    Web Application Development Step by Step
 
 
 
 # ==== Class 37 ====
 
+    Web Application Development Step by Step
 
 
 
 # ==== Class 38 ====
 
+    Web Application Development Step by Step
 
 
 
 # ==== Class 39 ====
 
+    Web Application Development Step by Step
 
 
 
 # ==== Class 40 ====
 
+    Web Application Development Step by Step
 
 
 
 # ==== Class 41 ====
 
+    Web Application Development Step by Step
 
 
 
 # ==== Class 42 ====
 
+    Web Application Development Step by Step
 
 
 
 # ==== Class 43 ====
 
+    Web Application Development Step by Step
 
 
 
 # ==== Class 44 ====
-
+    
+     What is Domain?
+     What is Hosting?
+     Feature of Cpanel.
+     Creating Database in Cpanel.
+     Hosting a Web Application in Live Server
 
 
 
 # ==== Class 45 ====
 
+     Discussion about Re-Sellable Market Place.
+     Code Canyon Market Research.
+     Code Canyon Product Requirement.
+     Code Canyon Rules and Regulation.
+     Code Canyon Coding Structure.
+     Code Canyon File Upload System.
+     Why Code Canyon Reject File?
+     File Re-Submission System.
+     Payment System.
+     Account Security.
+
+
+    Class Assignment: Review Market Place and Requirement
 
 
 
 # ==== Class 46 ====
 
+     Discussion in (www.freelancer.com) Market Place.
+     Creating Account. Updating Profile
+     Finding Jobs. Details of Job Page.
+     Cover Letter Writing.
+     Good Profile Create System.
+     Bidding Techniques.
+     Contest Attend and Review All Contest.
+     Facing Interview. Communicating with Client
+     Payment Withdrawn.
+     Review Questions and Answers.
+     Account Security.
+
+    Class Assignment: Every Student Create Account in Market Place and Bidding Client Project. 
 
 
 
 # ==== Class 47 ====
 
+     What is CBT&A?
+     Discuss CBT&A Certificate Demand.
+     Discuss CBT&A Exam Course Module.
+     CBT&A Exam Procedure.
+     Certification Process.
+     Discussion.
 
 
 
 # ==== Class 48 ====
 
+    ** Final Exam of Web Development Course **
+    ** Viva of Web Development Course Contents **
+    ** Final Project Submission of Web Development Course **
+    ** Motivation and Discussion about Professional Period**
 
 
 
